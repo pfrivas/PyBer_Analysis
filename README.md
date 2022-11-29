@@ -8,6 +8,6 @@ Conduct an exploratory analysis on data for very large CSV files. The explorator
 
 **Software:** Python 3.11, Anaconda, Jupyter Notebook
 
-**Language:** Pandas and Matplotlib
+**Language:** Pandas, NumPy, and Matplotlib
 
 **Code:** PyBer Challenge
