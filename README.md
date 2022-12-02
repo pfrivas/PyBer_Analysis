@@ -17,13 +17,15 @@ Conduct an exploratory analysis on data for very large CSV files. The explorator
 
 ### Average Fare vs Total Number of Rides Bubble Chart
 - Bubble size is based on the total number of drivers for each city type, including urban, suburban, and rural.
-
 <img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/Fig1.png>
 
 ### The mean, median, and mode for the following:
 - The total number of rides for each city type.
 - The average fares for each city type.
 - The total number of drivers for each city type.
+
+- Summary
+<img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_DataFrame.png>
 
 ### Box-and-whisker plots to determine if there are any outliers:
 - The number of rides for each city type.
