@@ -61,10 +61,10 @@ There is a larger amount of both drivers and users in urban cities, thus the maj
 ## Summary (Buisness Reccomendations) 
 
 ### Identifying and Predicting Trends
-- Theres is an opportunity to expand the analysis by adding more data points throughout the entire year that could provide insights to yearly trends in order to predict trends for future years and see if all city types have the same trends and determine other factors that contribute tot the high ride costs in rural  cities and loe drive fares in urban cities. Once the other factors are determined fares could be adjusted accordingly.
+- Theres is an opportunity to expand the analysis by adding more data points throughout the entire year that could provide insights to yearly trends in order to predict trends for future years and see if all city types have the same trends and determine other factors that contribute to the high ride costs in rural  cities and low drive fares in urban cities. Once the other factors examplifed, affordability for underserved neighborhoods can be determined.
 
 ### Demographics of users
 - Theres is an opportunity to expand the analysis by including data that provides insights on the demographics of users in order to target marketing strategies to consumers according to the demographic environment of each of the different city types in order to increase revenue in suburban and rural cities to those of urban cities which has the highest usage of the ridesharing services.
 
 ### Rewards Program
-- Theres is an opportunity to expand the analysis by providing a rewards program that not only rewards loyal riders and drivers but also attracts new ones. The data from the rewards program can provide insights on usage of the ridesharing services and see if any trends had changed.
+- Theres is an opportunity to expand the analysis by providing a rewards program that not only rewards loyal riders and drivers but also attracts new ones and improves access to ridesharing services. The data from the rewards program can provide insights on usage of the ridesharing services and see if any trends had changed.
