@@ -21,19 +21,12 @@ Conduct an exploratory analysis on data for very large CSV files. The explorator
 
 If we compare the average number of rides between each city type, we'll notice that the average number of rides in the rural cities is about 3.5 and 2.5 times lower than urban and suburban cities, respectively.
 
-### The mean, median, and mode for the following:
-- The total number of rides for each city type.
-- The average fares for each city type.
-- The total number of drivers for each city type.
-
-- Summary
+### DataFrame Summary
 <img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/PyBer_Summary_DataFrame.png>
 
 ### Box-and-whisker plots to determine if there are any outliers:
 - **The number of rides for each city type.**
 <img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/Fig2.png>
-
-Findings: This our maximum data point, 39. The minimum is 12. The median is 24 or the 50th percentile. The standard deviation is about 5 because the box upper and lower boundaries represent the upper and lower quartiles.
 
 - **The fares for each city type.**
 <img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/Fig3.png>
