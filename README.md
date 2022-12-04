@@ -41,7 +41,7 @@ Findings: This our maximum data point, 39. The minimum is 12. The median is 24 o
 - **The number of drivers for each city type.**
 <img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/Fig4.png>
 
-- **Findings**
+- **Findings:**
 
 There is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities. The outlier for the urban_ride_count is 39. From the combined box-and-whisker plots, we see that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities. The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities
 
@@ -55,7 +55,7 @@ There is one outlier in the urban ride count data. Also, the average number of r
 - **The percent of total drivers.**
 <img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/Fig7.png>
 
-- **Findings**
+- **Findings:**
 Urban cities make up 62.7% of total Fares, 68.4% of total rides, and has 80.9% of total drivers.
 Suburban cities make up 30.5% of total Fares, 26.3% of total rides, and has 16.5% of total drivers.
 Rural cities make up 6.8% of total Fares, 5.3% of total rides, and has 2.6% of total drivers.
@@ -63,7 +63,7 @@ Rural cities make up 6.8% of total Fares, 5.3% of total rides, and has 2.6% of t
 ### Line Chart for Total Fare by City Type 
 <img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/Pyber_fare_summary.png>
 
-- **Findings**
+- **Findings:**
 There is a larger amount of both drivers and users in urban cities, thus the majority of PyBer's revenue occurs in urban cities, followed by suburban and then rural, respectively.
 
 ## Summary (Buisness Reccomendations) 
