@@ -35,7 +35,6 @@ If we compare the average number of rides between each city type, we'll notice t
 <img src = https://github.com/pfrivas/PyBer_Analysis/blob/main/Analysis/Fig4.png>
 
 - **Findings:**
-
 There is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities. The outlier for the urban_ride_count is 39. From the combined box-and-whisker plots, we see that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities. The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities
 
 ### Pie chart that visualizes each of the following data for each city type:
@@ -60,7 +59,12 @@ Rural cities make up 6.8% of total Fares, 5.3% of total rides, and has 2.6% of t
 There is a larger amount of both drivers and users in urban cities, thus the majority of PyBer's revenue occurs in urban cities, followed by suburban and then rural, respectively.
 
 ## Summary (Buisness Reccomendations) 
-### Additional Data Points
-- Theres is an opportunity to 
+
+### Identifying and Predicting Trends
+- Theres is an opportunity to expand the analysis by adding more data points throughout the entire year that could provide insights to yearly trends in order to predict trends for future years and see if all city types have the same trends and determine other factors that contribute tot the high ride costs in rural  cities and loe drive fares in urban cities. Once the other factors are determined fares could be adjusted accordingly.
+
 ### Demographics of users
+- Theres is an opportunity to expand the analysis by including data that provides insights on the demographics of users in order to target marketing strategies to consumers according to the demographic environment of each of the different city types in order to increase revenue in suburban and rural cities to those of urban cities which has the highest usage of the ridesharing services.
+
 ### Rewards Program
+- Theres is an opportunity to expand the analysis by providing a rewards program that not only rewards loyal riders and drivers but also attracts new ones. The data from the rewards program can provide insights on usage of the ridesharing services and see if any trends had changed.
